@@ -1,0 +1,1 @@
+Um programa simples para simular transições bancárias
